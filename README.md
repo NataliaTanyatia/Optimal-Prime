@@ -34,3 +34,11 @@ This paper doesn’t just solve a problem—it **opens a door**. What other myst
 
 **🔗 Explore the paper, challenge the ideas, and be part of the next breakthrough.**  
 *"The most profound equations are not just true—they’re inevitable."*  
+
+Peer Revied:(as much as it's probably going to get for someone with no institutional affiliation or endorsment)
+On the Nature of Logic and the P vs NP Problem: https://vixra.org/abs/2504.0079
+
+Mirrors:
+https://independent.academia.edu/NataliaTanyatia
+
+
